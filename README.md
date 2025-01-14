@@ -40,15 +40,15 @@ Write a report, completing prompts provided in `writing/report.md`.
 To receive credit for this assignment, all of the following items in the checklist must be completed and checked off. 
 
 1. [ ] A visual representation of the sitemap was included in the report.
-2. [ ] The initial repository contains a properly formatted `sitemap/sitemap.md` file.
-3. [ ] The sitemap accurately reflects the structure of the assigned website.
-4. [ ] All main sections and sub-sections of the website are included in the sitemap.
-5. [ ] Page hierarchies are clearly represented in the sitemap.
-6. [ ] Links are correctly formatted in Markdown.
-7. [ ] Proper use of headers to represent hierarchy (e.g., `#`, `##`, `###`).
-8. [ ] Correct use of ordered (`1.`, `2.`) or unordered lists (`-`, `*`).
-9. [ ] Indentation is consistent for sub-sections.
-10. [ ] Paragraphs were correctly used in Markdown.
+2. [ ] The repository contains a properly formatted and completed `sitemap/sitemap.md` file.
+3. [ ] The repository contains a properly formatted and completed `writing/report.md` file.
+4. [ ] The sitemap accurately reflects the structure of the assigned website.
+5. [ ] All main sections and sub-sections of the website are included in the sitemap.
+6. [ ] Page hierarchies are clearly represented in the sitemap.
+7. [ ] Links are correctly formatted in Markdown.
+8. [ ] Proper use of headers to represent hierarchy (e.g., `#`, `##`, `###`).
+9. [ ] Correct use of ordered (`1.`, `2.`) or unordered lists (`-`, `*`).
+10. [ ] Paragraphs correctly used in Markdown.
 11. [ ] No syntax errors in the Markdown file.
 12. [ ] A separate branch was created.
 13. [ ] Commits are descriptive and reflect meaningful progress.
